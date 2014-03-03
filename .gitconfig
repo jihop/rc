@@ -1,0 +1,17 @@
+[user]
+    email = jihop@jihopark.com
+    name = Jiho Park
+[ui]
+    color = true
+[color]
+    ui = true
+[diff]
+    tool = vimdiff
+[push]
+    default = current
+[alias]
+    lg = log --abbrev-commit --decorate --graph --all --pretty=format:'%C(magenta)%h%C(reset) -%C(yellow)%d%C(reset) %s %C(green)(%cr) %C(cyan)<%an>%C(reset)'
+[difftool]
+    prompt = false
+[merge]
+    conflictstyle = diff3
