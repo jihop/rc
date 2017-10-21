@@ -1,6 +1,4 @@
-" .vimrc
-" Author: Jiho Park <jihop@jihopark.com>
-" Source: https://raw.github.com/jihop/ref/master/rc/.vimrc
+" FILENAME: ~/.vimrc
 
 syntax on
 set ruler
