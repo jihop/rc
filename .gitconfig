@@ -1,5 +1,7 @@
+# ~/.gitconfig
+
 [user]
-    email = jihop@jihopark.com
+    email = jiho@jihopark.com
     name = Jiho Park
 [ui]
     color = true
